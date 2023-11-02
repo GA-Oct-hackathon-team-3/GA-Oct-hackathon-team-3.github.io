@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.861c0e72.css",
+    "main.js": "/static/js/main.edf43526.js",
+    "static/media/heroImg.png": "/static/media/heroImg.9adc9a437b042b77c1e5.png",
+    "static/media/gardenerTagImg.png": "/static/media/gardenerTagImg.ce4a523469a83b62a9ad.png",
+    "static/media/singerTagImg.png": "/static/media/singerTagImg.b15f320e3982574fcad4.png",
+    "static/media/home.png": "/static/media/home.c91f856ca36a14139091.png",
+    "static/media/pointingHandImg.png": "/static/media/pointingHandImg.b94e1a7d6456f6f2b6f7.png",
+    "static/media/bikerTagImg.png": "/static/media/bikerTagImg.97a1379eb6aa2ded69b1.png",
+    "static/media/profile.png": "/static/media/profile.d2f78636340488e1a237.png",
+    "static/media/calender.png": "/static/media/calender.30073bf2b1928a0c0241.png",
+    "static/media/gift.png": "/static/media/gift.f43bfc2def3ea51f5614.png",
+    "static/media/noFriendsImg.png": "/static/media/noFriendsImg.099a3ab57002ca2aac9a.png",
+    "static/media/desktopIntro.png": "/static/media/desktopIntro.f82d3175b0f099f33a48.png",
+    "static/media/loginImg.png": "/static/media/loginImg.48733fcac5d48f7e90c5.png",
+    "static/media/desktopLogin.png": "/static/media/desktopLogin.de389eba0d1bd16dc7c0.png",
+    "static/media/alert.png": "/static/media/alert.03473c64586f6948c44d.png",
+    "static/media/manCelebrating.png": "/static/media/manCelebrating.fb674aec8893ecc1bf01.png",
+    "static/media/womanCelebrating.png": "/static/media/womanCelebrating.58f30b33511178359b5a.png",
+    "static/media/PilcrowRounded-Regular.woff2": "/static/media/PilcrowRounded-Regular.fe2ef4dbabb45729b332.woff2",
+    "static/media/presentlyLogo.png": "/static/media/presentlyLogo.eb1e89430d958fb89784.png",
+    "index.html": "/index.html",
+    "main.861c0e72.css.map": "/static/css/main.861c0e72.css.map",
+    "main.edf43526.js.map": "/static/js/main.edf43526.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.861c0e72.css",
+    "static/js/main.edf43526.js"
+  ]
+}
